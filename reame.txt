@@ -1,0 +1,1 @@
+All of this work is done by me for Soft Computing Lab during undergraduate studies. In this I have implemented various neural networks learning algorithm in matlab and python.
